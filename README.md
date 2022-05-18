@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serg-ux
 - 👀 I’m interested in learn new languages and share my ideas and my knowledge
 - 🌱 I’m currently learning javascript
-- 😎 I know some Java, HTML,CSS and SQL
+- 😎 I know some Java, HTML,CSS and MySQL, Class Diagrams
 - 📫 You can reach me in my official page in ...
 
 <!---
