@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serg-ux
 - 👀 I’m interested in learn new languages and share my ideas and my knowledge
-- 🌱 I’m currently learning javascript, python and VBS
+- 🌱 I’m currently learning javascript, python and C#
 - 😎 I know some Java, HTML,CSS, MySQL and Class Diagrams
 - 🤖currently developing a website for Scavitas and i a near future a discord bot 
 <!---
