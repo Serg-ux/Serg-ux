@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Java, C#, .NET, Python, SQL Server, MySQL, HTML, ORM**
 
-- 📫 How to reach me **aguilatroll1081@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/sergio-mazaira/](https://www.linkedin.com/in/sergio-mazaira/)
 
 - ⚡ Fun fact **computer scientists also go out to party**
