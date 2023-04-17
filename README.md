@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate FullStack developer from Spain</h3>
+<h3 align="center">FullStack developer from Spain</h3>
 
 - 🔭 I’m currently working on **Allkeys**
 
@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sergio-mazaira/](https://www.linkedin.com/in/sergio-mazaira/)
 
-- ⚡ Fun fact **computer scientists also go out to party**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
