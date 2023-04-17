@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Java, C#, .NET, Python, SQL Server, MySQL, HTML, ORM**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sergio-mazaira/](https://www.linkedin.com/in/sergio-mazaira/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
