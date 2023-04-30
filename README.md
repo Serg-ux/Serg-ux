@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Allkeys**
 
-- 🌱 I’m currently learning **JSP,Cybersecurity,Pentesting**
+- 🌱 I’m currently learning **JSP, Cybersecurity, Pentesting**
 
 - 📝 I regularly write articles on [https://serg-ux.github.io/](https://serg-ux.github.io/)
 
