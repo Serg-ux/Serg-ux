@@ -1,40 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">FullStack developer from Spain</h3>
+# Hi! What’s up?
 
-- 🔭 I’m currently working on **Allkeys**
+Hello, my name is Ser-ux. I'm a Full Stack Developer in Spain.
+I'm currently learning Cybersecurity.
 
-- 🌱 I’m currently learning **JSP, Cybersecurity, Pentesting**
+## Interests
 
-- 📝 I regularly write articles on [https://serg-ux.github.io/](https://serg-ux.github.io/)
+**I really, _really_ like coding**, as you can see in my GitHub profile. I've developed several projects ranging from simple logins to complete apps with databases.
 
-- 💬 Ask me about **Java, C#, .NET, Python, SQL Server, MySQL, HTML, ORM**
+As hobbies I like to go **downhill**, play **basketball** and **soccer**. Thanks to these sports I have learned to **teamwork**.
 
+![All-time Statistics](https://github-readme-stats.vercel.app/api?username=Serg-ux&border_radius=15&count_private=true&hide=prs&hide_border=true&hide_title=true&locale=en&show_icons=true&show_owner=true&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Development skills
 
-<a href="https://linkedin.com/in/sergio mazaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio mazaira" height="30" width="40" /></a>
-</p>
+I've got a professional level in **Java** programming. In fact, this was the first language I learned back in 2020. I can do almost anything with it.
 
-### 🧰 Languages and Tools
+I also have some experience with languages such as **SQL**,**HTML**,**CSS**, **JavaScript**, **C#** or **Python**, having developed some minor projects with them.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"/>
-<br />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-ux&border_radius=15&hide_border=true&hide_title=true&langs_count=20&locale=en&show_icons=true&show_owner=true&theme=tokyonight)](https://github.com/Serg-ux/github-readme-stats)
 
+## Other skills
 
+Some say I'm a good leader, others say I'm not, but one thing is for sure: **I know how to work in a team**. I believe communication is the standard requirement for successful teamwork, and I make a good job encouraging this good practice.
 
-### 📊 Stats
+Furthermore, despite being from Spain, I speak English on a decent level (**I currently have got a B2 language certificate**).
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=serg-ux&show_icons=true&theme=gruvbox)
+## Contact
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=serg-ux&theme=gruvbox&border_radius=4.5) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serg-ux&show_icons=true&locale=en&layout=compact" alt="serg-ux" /></p>
+You can contact me through any of the following alternatives:
 
+* Email: [serguxeh@gmail.com](mailto:serguxeh@gmail.com)
+* LinkedIn: [Sergio Mazaira](https://www.linkedin.com/in/sergio-mazaira-rodriguez/)
