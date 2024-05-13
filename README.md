@@ -1,7 +1,6 @@
 # Hi! What’s up?
 
-Hello, my name is Ser-ux. I'm a Full Stack Developer in Spain.
-I'm currently learning Cybersecurity.
+Hello, my name is Ser-ux. I'm a Penetration Tester.
 
 ## Interests
 
