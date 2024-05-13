@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi! What’s up?
 
-<!--
-**Serg-ux/Serg-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Ser-ux. I'm a Full Stack Developer in Spain.
+I'm currently learning Cybersecurity.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I really, _really_ like coding**, as you can see in my GitHub profile. I've developed several projects ranging from simple logins to complete apps with databases.
+
+As hobbies I like to go **downhill**, play **basketball** and **soccer**. Thanks to these sports I have learned to **teamwork**.
+
+![All-time Statistics](https://github-readme-stats.vercel.app/api?username=Serg-ux&border_radius=15&count_private=true&hide=prs&hide_border=true&hide_title=true&locale=en&show_icons=true&show_owner=true&theme=tokyonight)
+
+## Development skills
+
+I've got a professional level in **Java** programming. In fact, this was the first language I learned back in 2020. I can do almost anything with it.
+
+I also have some experience with languages such as **SQL**,**HTML**,**CSS**, **JavaScript**, **C#** or **Python**, having developed some minor projects with them.
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-ux&border_radius=15&hide_border=true&hide_title=true&langs_count=20&locale=en&show_icons=true&show_owner=true&theme=tokyonight)](https://github.com/Serg-ux/github-readme-stats)
+
+## Other skills
+
+Some say I'm a good leader, others say I'm not, but one thing is for sure: **I know how to work in a team**. I believe communication is the standard requirement for successful teamwork, and I make a good job encouraging this good practice.
+
+Furthermore, despite being from Spain, I speak English on a decent level (**I currently have got a B2 language certificate**).
