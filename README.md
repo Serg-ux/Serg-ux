@@ -7,7 +7,6 @@ Hello, my name is Ser-ux. I'm a Penetration Tester.
 **I really, _really_ like coding**, as you can see in my GitHub profile. I've developed several projects ranging from simple logins to complete apps with databases.
 
 As hobbies I like to go **downhill**, play **basketball** and **soccer**. Thanks to these sports I have learned to **teamwork**.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serg-ux)](https://github.com/anuraghazra/github-readme-stats)
 ![All-time Statistics](https://github-readme-stats.vercel.app/api?username=Serg-ux&border_radius=15&count_private=true&hide=prs&hide_border=true&hide_title=true&locale=en&show_icons=true&show_owner=true&theme=tokyonight)
 
 ## Development skills
