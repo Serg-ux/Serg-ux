@@ -4,10 +4,9 @@ Hello, my name is Ser-ux. I'm a Cybersecurity Student.
 
 ## Interests
 
-**I really, _really_ like coding**, as you can see in my GitHub profile. I've developed several projects ranging from simple logins to complete apps with databases.
+**I really, _really_ like coding**, as you can see in my GitHub profile. I've developed several projects ranging from simple script to complete apps.
 
 As hobbies I like to go **downhill**, play **basketball** and **soccer**. Thanks to these sports I have learned to **teamwork**.
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Serg-ux&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Development skills
 
