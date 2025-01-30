@@ -1,6 +1,6 @@
 # Hi! What’s up?
 
-Hello, my name is Ser-ux. I'm a Penetration Tester.
+Hello, my name is Ser-ux. I'm a Cybersecurity Student.
 
 ## Interests
 
