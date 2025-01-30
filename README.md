@@ -17,8 +17,3 @@ I also have some experience with languages such as **SQL**,**HTML**,**CSS**, **J
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-ux&border_radius=15&hide_border=true&hide_title=true&langs_count=20&locale=en&show_icons=true&show_owner=true&theme=tokyonight)](https://github.com/Serg-ux/github-readme-stats)
 
-## Other skills
-
-Some say I'm a good leader, others say I'm not, but one thing is for sure: **I know how to work in a team**. I believe communication is the standard requirement for successful teamwork, and I make a good job encouraging this good practice.
-
-Furthermore, despite being from Spain, I speak English on a decent level (**I currently have got a B2 language certificate**).
