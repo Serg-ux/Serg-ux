@@ -1,6 +1,6 @@
 # Hi! What’s up?
 
-Hello, my name is Ser-ux. I'm a Cybersecurity Student.
+Hello, my name is Ser-ux. I'm a Cybersecurity Analyst.
 
 ## Interests
 
