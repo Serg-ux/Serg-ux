@@ -12,7 +12,7 @@ As hobbies I like to go **downhill**, play **basketball** and **soccer**. Thanks
 
 I've got a professional level in **Java** programming. In fact, this was the first language I learned back in 2020. I can do almost anything with it.
 
-I also have some experience with languages such as **SQL**,**HTML**,**CSS**, **JavaScript**, **C#** or **Python**, having developed some minor projects with them.
+I also have some experience with languages such as **SQL**, **HTML**, **CSS**, **JavaScript**, **C#** or **Python**, having developed some minor projects with them.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Serg-ux&theme=hacker)](https://git.io/streak-stats)
