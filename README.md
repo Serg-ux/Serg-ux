@@ -14,7 +14,6 @@ I've got a professional level in **Java** programming. In fact, this was the fir
 
 I also have some experience with languages such as **SQL**, **HTML**, **CSS**, **JavaScript**, **C#** or **Python**, having developed some minor projects with them.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Serg-ux&theme=hacker)](https://git.io/streak-stats)
 
 Language Stats             |  User Stats
 :-------------------------:|:-------------------------:
