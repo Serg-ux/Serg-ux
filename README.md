@@ -17,4 +17,4 @@ I also have some experience with languages such as **SQL**, **HTML**, **CSS**, *
 
 Language Stats             |  User Stats
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-ux&langs_count=10&layout=compact&theme=dark&hide_title=true&exclude_repo=DLND,elmctron)  |  ![](https://github-readme-stats.vercel.app/api?username=Serg-ux&count_private=false&show_icons=true&theme=dark&hide_title=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-ux&langs_count=10&layout=compact&theme=dark&hide_title=true&exclude_repo=DLND,elmctron)  |  ![](https://github-readme-stats.vercel.app/api?username=Serg-ux&count_private=true&show_icons=true&theme=dark&hide_title=false)
